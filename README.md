@@ -1,2 +1,1 @@
-# sm-cleaningservices
-San Marcos Cleaning Services
+# San Marcos Cleaning Services
