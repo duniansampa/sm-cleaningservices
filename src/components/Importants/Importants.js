@@ -24,15 +24,14 @@ export default function Importants() {
                 <h2 className="title">Data of cleanings:</h2>
                 <p className="subtitle secondary-color">
                   Welcome! We are a specialized cleaning service. We handle
-                  anything from your personal home to offices to even commercial
-                  cleanings. Let us do the dirty work for you, we clean while
+                  anything from your personal home to offices. We have license for cleaning services in Lacey, Olympia and Tumwater. Let us do the dirty work for you, we clean while
                   you relax
                 </p>
               </div>
               <div className="col-12" id="info-numbers">
                 <div className="row">
                   <div className="col-4">
-                    <h3 className="primary-color">+10</h3>
+                    <h3 className="primary-color">+15</h3>
                     <p className="secondary-color">Years of experience</p>
                   </div>
                   <div className="col-4">

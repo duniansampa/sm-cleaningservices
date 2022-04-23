@@ -286,7 +286,8 @@
 
 #news-container,
 #contact-container,
-#links-container {
+#links-container,
+#payment-container {
   padding: 0;
   border: 0;
   margin-bottom: 2em;
@@ -302,7 +303,7 @@
   border: none;
 }
 
-#links-container li {
+#links-container li,  #payment-container li {
   margin-bottom: 0.5em;
 }
 
@@ -330,12 +331,17 @@
   }
 
   #contact-container {
-    padding: 0 2em;
     border-left: 1px solid #7a7a7a;
     border-right: 1px solid #7a7a7a;
   }
 
-  #links-container {
+  #contact-container, 
+  #links-container{
+    padding: 0 2em;
+  }
+  
+  #payment-container {
     padding-left: 2em;
+    border-left: 1px solid #7a7a7a;
   }
 }
