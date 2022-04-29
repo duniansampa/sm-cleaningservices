@@ -6,8 +6,8 @@ function App() {
     <>
       <Header />
       <Carousel />
-      <Highlights />
       <Importants />
+      <Highlights />
       <Footer />
     </>
   );
