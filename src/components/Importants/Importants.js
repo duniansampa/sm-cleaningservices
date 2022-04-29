@@ -25,7 +25,7 @@ export default function Importants() {
                 <p className="subtitle secondary-color">
                   Welcome! We are a specialized cleaning service. We handle
                   anything from your personal home to offices. We have license for cleaning services in Lacey, Olympia and Tumwater. Let us do the dirty work for you, we clean while
-                  you relax
+                  you relax.
                 </p>
               </div>
               <div className="col-12" id="info-numbers">

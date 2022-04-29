@@ -242,14 +242,29 @@
 }
 
 #info-numbers h3 {
-  font-size: 3em;
+  font-size: 2em;
+  text-align: center;
+}
+
+#info-numbers p{
+  text-align: center;
 }
 
 @media (min-width: 768px) {
   #info-content {
     padding: 3.5em;
   }
+  #info-numbers h3 {
+    font-size: 2em;
+    text-align: center;
+  }
 }
+
+@media (min-width: 991.98px) {
+  #info-numbers h3 {
+    font-size: 3em;
+  }
+ }
 
 /* FOOTER TOP */
 #footer {
