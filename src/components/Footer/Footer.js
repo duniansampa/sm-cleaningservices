@@ -12,7 +12,13 @@ export default function Footer() {
                 <h2>SM Cleaning Services</h2>
               </div>
               <div className="col-4" id="social-icons">
-                <a href="https://www.facebook.com/margarita.esteban.9083/" target="_blank"><i className="bi bi-facebook"></i></a>
+                <a
+                  href="https://www.facebook.com/margarita.esteban.9083/"
+                  target="_blank"
+                  rel="noreferrer"
+                >
+                  <i className="bi bi-facebook"></i>
+                </a>
                 <i className="bi bi-instagram"></i>
                 <i className="bi bi-youtube"></i>
                 <i className="bi bi-twitter"></i>
@@ -43,16 +49,20 @@ export default function Footer() {
                 <p className="secondary-color">360292-5685</p>
                 <p className="secondary-color">lunaesteban72@gmail.com</p>
                 <p className="secondary-color">
-                  Address: 605 Acorn Ct SE, Lacey, WA 98503
+                  Address: 2011 Old Highway 99 SE TRLR 135, Olympia, WA 98501
                 </p>
               </div>
               <div className="col-12 col-md-3" id="links-container">
                 <div className="row">
                   <h4>You may be searching for</h4>
                   <div className="col">
-                      <p className="secondary-color">Customizable Services</p>
-                      <p className="secondary-color">High-Quality Cleaning Products</p>
-                      <p className="secondary-color">Customized cleaning regime</p>
+                    <p className="secondary-color">Customizable Services</p>
+                    <p className="secondary-color">
+                      High-Quality Cleaning Products
+                    </p>
+                    <p className="secondary-color">
+                      Customized cleaning regime
+                    </p>
                   </div>
                 </div>
               </div>
@@ -60,15 +70,9 @@ export default function Footer() {
                 <div className="row">
                   <h4>Payment method</h4>
                   <div className="col">
-                    <p className="secondary-color">
-                        Visa
-                      </p>
-                      <p className="secondary-color">
-                        Master
-                      </p>
-                      <p className="secondary-color">
-                        Check
-                      </p>
+                    <p className="secondary-color">Visa</p>
+                    <p className="secondary-color">Cash</p>
+                    <p className="secondary-color">Check</p>
                   </div>
                 </div>
               </div>
@@ -78,7 +82,17 @@ export default function Footer() {
           <div className="col-12" id="footer-bottom">
             <div className="row justify-content-between">
               <div className="col-12 col-md-3">
-                <p className="secondary-color"><a href="https://www.adiantex.com" target="_blank"> AdianteX </a> &copy; 2022</p>
+                <p className="secondary-color">
+                  <a
+                    href="https://www.adiantex.com"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    {" "}
+                    AdianteX{" "}
+                  </a>{" "}
+                  &copy; 2022
+                </p>
               </div>
               <div className="col-12 col-md-3">
                 <p className="secondary-color">
