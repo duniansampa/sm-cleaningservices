@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.feb641e1.css",
-    "main.js": "/static/js/main.b4df165d.js",
-    "static/js/787.4bc426c9.chunk.js": "/static/js/787.4bc426c9.chunk.js",
-    "index.html": "/index.html",
-    "main.feb641e1.css.map": "/static/css/main.feb641e1.css.map",
-    "main.b4df165d.js.map": "/static/js/main.b4df165d.js.map",
-    "787.4bc426c9.chunk.js.map": "/static/js/787.4bc426c9.chunk.js.map"
+    "main.css": "/sm-cleaningservices/static/css/main.feb641e1.css",
+    "main.js": "/sm-cleaningservices/static/js/main.577bccda.js",
+    "static/js/787.4bc426c9.chunk.js": "/sm-cleaningservices/static/js/787.4bc426c9.chunk.js",
+    "index.html": "/sm-cleaningservices/index.html",
+    "main.feb641e1.css.map": "/sm-cleaningservices/static/css/main.feb641e1.css.map",
+    "main.577bccda.js.map": "/sm-cleaningservices/static/js/main.577bccda.js.map",
+    "787.4bc426c9.chunk.js.map": "/sm-cleaningservices/static/js/787.4bc426c9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.feb641e1.css",
-    "static/js/main.b4df165d.js"
+    "static/js/main.577bccda.js"
   ]
 }
